@@ -1,3 +1,3 @@
 # Specs
 
-The Snips CocoaPods Specs.
+The Snips CocoaPods Specs
